@@ -1,2 +1,2 @@
-# Unidad-1-PyE
+# PyE
 Unidad 1 de Probabilidad y Estadística
